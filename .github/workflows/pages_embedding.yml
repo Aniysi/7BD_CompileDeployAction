@@ -1,0 +1,47 @@
+name: Run Python script for TeX Live compilation
+
+on:
+  push:
+    branches:
+      - main
+
+permissions: 
+  contents: write 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Step 3: Install TeX Live if not cached
+      - name: Set-up Tex Live
+        run: |
+          sudo apt-get update && sudo apt-get install -y texlive-latex-base texlive-latex-extra texlive-fonts-recommended
+
+      # Step 4: Set up Python
+      - name: Set-up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # Step 5: Run Python script to compile TeX files
+      - name: Run TeX compile script
+        run: |
+          python pages/html_embedding.py
+
+      # Step 6: Commit and push changes
+      - name: Commit and push changes on repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.pdf
+          git add compilation.log
+          git commit -m "GH - ACTION: compiled and committed .tex files"
+          git push
+        env:
+          # Usa il token GitHub per autenticare il push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
