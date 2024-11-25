@@ -5,20 +5,20 @@ import os.path
 from os import path
 
 
+# Path root della repo
+repo_root = os.environ.get("GITHUB_WORKSPACE", os.getcwd())
+repo_root_path = Path(repo_root)
+
 # Dato il path di un file lo compila in .pdf mediante il comando 'pdflatex'
 def compile(dir_path, file_path):
     try:
-        with open(f"compilation.log", "a") as log_file:
+        with open(repo_root_path / "pages" / "compilation.log", "a") as log_file:
             log_file.write("------------------------------------------------------------------------------------------------------\n")
             subprocess.run(["pdflatex", file_path], cwd=dir_path, check=True, stdout=log_file, stderr=log_file)
         #print(f"{file_path} compilato con successo!")
     except subprocess.CalledProcessError:
-        with open(f"errors.log", "w") as test:
+        with open(repo_root_path / "pages" / "errors.log", "w") as test:
             test.write(f"Errore nella compilazione di {file_path}!")
-
-# Path root della repo
-repo_root = os.environ.get("GITHUB_WORKSPACE", os.getcwd())
-repo_root_path = Path(repo_root)
 
 # Cancellazione log di compilazione e log degli errori
 if (path.exists(repo_root_path / "pages" / "compilation.log")):
