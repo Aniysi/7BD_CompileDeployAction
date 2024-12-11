@@ -1,7 +1,9 @@
 This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/ModelloVerbaleEsterno.tex
+
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/ModelloVerba
+leEsterno.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -110,7 +112,9 @@ Transcript written on ModelloVerbaleEsterno.log.
 This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/ModelloVerbaleEsterno.tex
+
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/ModelloVerba
+leEsterno.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -182,7 +186,9 @@ Transcript written on ModelloVerbaleEsterno.log.
 This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/ModelloVerbaleInterno.tex
+
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/ModelloVerba
+leInterno.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -257,7 +263,9 @@ Transcript written on ModelloVerbaleInterno.log.
 This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/ModelloVerbaleInterno.tex
+
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/ModelloVerba
+leInterno.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -330,8 +338,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Valutazione_capito
-lati.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Valutazione_capitolati.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -382,8 +390,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Valutazione_capito
-lati.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Valutazione_capitolati.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -434,8 +442,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Lettera_presentazi
-one.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Lettera_presentazione.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -615,8 +623,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Lettera_presentazi
-one.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Lettera_presentazione.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -797,8 +805,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Dichiarazione_impe
-gni.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Dichiarazione_impegni.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -852,8 +860,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Dichiarazione_impe
-gni.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Dichiarazione_impegni.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -907,8 +915,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Verbali/Interni/Ve
-rbaleInterno-2024-10-30.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Verbali/Interni/VerbaleInterno-2024-10-30.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -959,8 +967,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Verbali/Interni/Ve
-rbaleInterno-2024-10-30.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Verbali/Interni/VerbaleInterno-2024-10-30.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1011,8 +1019,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Verbali/Interni/Ve
-rbaleInterno-2024-10-16.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Verbali/Interni/VerbaleInterno-2024-10-16.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1063,8 +1071,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Verbali/Interni/Ve
-rbaleInterno-2024-10-16.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Verbali/Interni/VerbaleInterno-2024-10-16.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1115,8 +1123,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Verbali/Interni/Ve
-rbaleInterno-2024-11-04.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Verbali/Interni/VerbaleInterno-2024-11-04.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1167,8 +1175,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Verbali/Interni/Ve
-rbaleInterno-2024-11-04.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Verbali/Interni/VerbaleInterno-2024-11-04.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1219,8 +1227,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Verbali/Interni/Ve
-rbaleInterno-2024-11-07.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Verbali/Interni/VerbaleInterno-2024-11-07.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1298,8 +1306,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Verbali/Interni/Ve
-rbaleInterno-2024-11-07.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Verbali/Interni/VerbaleInterno-2024-11-07.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1378,8 +1386,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Verbali/Interni/Ve
-rbaleInterno-2024-10-23.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Verbali/Interni/VerbaleInterno-2024-10-23.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1430,8 +1438,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/Candidatura/Verbali/Interni/Ve
-rbaleInterno-2024-10-23.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/Candidatura/
+Verbali/Interni/VerbaleInterno-2024-10-23.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1482,8 +1490,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/RTB/Verbali/Interni/VerbaleInt
-erno-2024-11-13.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/RTB/Verbali/
+Interni/VerbaleInterno-2024-11-13.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -1561,8 +1569,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (prel
  restricted \write18 enabled.
 entering extended mode
 
-(/home/runner/work/7BitsDocs_fork/7BitsDocs_fork/RTB/Verbali/Interni/VerbaleInt
-erno-2024-11-13.tex
+(/home/runner/work/7BD_CompileDeployAction/7BD_CompileDeployAction/RTB/Verbali/
+Interni/VerbaleInterno-2024-11-13.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
